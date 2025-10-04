@@ -67,10 +67,12 @@ The goal is to help industries *reduce downtime, save costs, and improve safety*
 - *Model Persistence*: joblib
 
 ## Demo link : https://machine-predictance-ske9ewbouksptpblwhgemd.streamlit.app/
+## Demo Datasets : https://drive.google.com/drive/folders/1n14DnhtDcoPOOCuOInoZIEPkM6MHARaj?usp=drive_link
 
 ---
 
 Authors:
-Jenish Maniraj J C, 
-Krissal K V, 
-Gracy S L
+- Jenish Maniraj J C
+- Krissal K V 
+- Gracy S L
+
