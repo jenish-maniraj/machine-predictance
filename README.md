@@ -73,6 +73,5 @@ The goal is to help industries *reduce downtime, save costs, and improve safety*
 
 Authors:
 - Jenish Maniraj J C
-- Krissal K V 
-- Gracy S L
+
 
